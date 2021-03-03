@@ -1,7 +1,7 @@
 # C-plus-plus-Hangman-Game
 Simple Hangman Game with C++.\
 Developed by:FD-6669(Luis).
-Level: Beginner
+Level: Beginner\
 
 Source code is available.
 
